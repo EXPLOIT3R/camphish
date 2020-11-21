@@ -1,7 +1,7 @@
 # EXPLOIT3R v1.0
 Take webcam shots from target just sending a malicious link
 
-![cheese](https://user-images.githubusercontent.com/34893261/56869077-e5714d80-69d1-11e9-8ce2-29a254021890.jpg)
+![camphish](https://raw.githubusercontent.com/EXPLOIT3R/camphish/main/Screenshot%202020-11-21%20at%2020.56.35.png)
 
 # Developer (Changes) : Mayank Rajkumar
 
